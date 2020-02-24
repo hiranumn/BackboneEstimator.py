@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hiranumn/BackboneEstimator.py/models/CB-net/model.ckpt"
+all_model_checkpoint_paths: "/home/hiranumn/BackboneEstimator.py/models/CB-net/model.ckpt"
